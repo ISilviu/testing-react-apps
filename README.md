@@ -1,6 +1,6 @@
-# How To Integrate React Query And Axios With Next.js - Code Repository
+# Beginning Next.js Testing: Jest & React-Testing-Library Guide - Code Repository
 
-This repository contains the code used in the  [How To Integrate React Query And Axios With Next.js](https://isilviu.com/blog/how-to-integrate-react-query-and-axios-with-next-js/). The code is organized in a way that matches the structure of the article and is designed to help readers understand and replicate the results described in the article.
+This repository contains the code used in the  [Beginning Next.js Testing: Jest & React-Testing-Library Guide](https://isilviu.com/blog/beginning-nextjs-testing-jest-and-react-testing-library-guide/). The code is organized in a way that matches the structure of the article and is designed to help readers understand and replicate the results described in the article.
 
 ## Getting Started
 
@@ -13,27 +13,19 @@ You will need to have the following software installed on your computer:  `node`
 ### Installing
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/ISilviu/data-fetching-next
+git clone https://github.com/ISilviu/testing-react-apps
 ```
 2. Navigate into the repository:
 ```bash
-cd data-fetching-next
+cd testing-react-apps
 ```
 3. Install the required dependencies:
 ```bash
 npm i
 ```
-4. Create the environment file:
+4. Run the tests.
 ```bash
-touch .env.local
-```
-5. Add the API url to it:
-```ini
-NEXT_PUBLIC_API_BASE_URL=http://localhost:3000/api
-```
-7. Run the application:
-```bash
-npm run dev
+npm t
 ```
 
 ### Contributing
