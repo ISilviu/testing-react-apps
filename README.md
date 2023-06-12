@@ -1,6 +1,6 @@
 # Beginning Next.js Testing: Jest & React-Testing-Library Guide - Code Repository
 
-This repository contains the code used in the  [Beginning Next.js Testing: Jest & React-Testing-Library Guide](https://isilviu.com/blog/beginning-nextjs-testing-jest-and-react-testing-library-guide/). The code is organized in a way that matches the structure of the article and is designed to help readers understand and replicate the results described in the article.
+This repository contains the code used in the  [Beginning Next.js Testing: Jest & React-Testing-Library Guide](https://isilviu.com/blog/beginning-nextjs-testing-jest-and-react-testing-library-guide/) article. The code is organized in a way that matches the structure of the article and is designed to help readers understand and replicate the results described in the article.
 
 ## Getting Started
 
